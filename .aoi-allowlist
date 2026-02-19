@@ -7,3 +7,9 @@ facilitator.js
 .env.example
 .gitignore
 .aoi-allowlist
+
+# AOI security gate (CI + local)
+.github/
+scripts/
+aoi-core/
+aoi_core/
